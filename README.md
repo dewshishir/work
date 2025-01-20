@@ -77,7 +77,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dewshishir/Work/blob/ced5241fdc2874e5cfc9b613c36e780050fe679c/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewshishir/dewshishir/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dewshishir/Work/blob/ced5241fdc2874e5cfc9b613c36e780050fe679c/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dewshishir/dewshishir/output/github-snake.svg" />
 </picture>
 
